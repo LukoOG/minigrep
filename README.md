@@ -90,3 +90,6 @@ Tests are implemented for:
 
 -  Case-sensitive search
 -  Case-insensitive search
+
+## 📜 License
+MIT
